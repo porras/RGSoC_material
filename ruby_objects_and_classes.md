@@ -116,7 +116,7 @@ You see the word ancestor there, and there's where inheritance comes in. There a
     end
 
     greeter = GermanGreeter.new
-    greeter.hello('Duana') # "Hallo, Duana!"
+    greeter.greet('Duana') # "Hallo, Duana!"
 
 When we call `hello` on `greeter`, the lookup chain we saw starts:
 
