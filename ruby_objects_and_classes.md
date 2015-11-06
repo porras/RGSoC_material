@@ -118,7 +118,7 @@ You see the word ancestor there, and there's where inheritance comes in. There a
     greeter = GermanGreeter.new
     greeter.greet('Duana') # "Hallo, Duana!"
 
-When we call `hello` on `greeter`, the lookup chain we saw starts:
+When we call `greet` on `greeter`, the lookup chain we saw starts:
 
   * Does it respond itself? NO
   * Does it's class (`GermanGreeter`) instruct it? NO
