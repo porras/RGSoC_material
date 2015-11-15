@@ -1,6 +1,8 @@
 # RGSoC Material
 
-This repo contains the notes and materials for a short talk on Ruby objects and classes I made for the two [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) teams that are working at the SoundCloud office, in order to make them available for them (or anyone else that might find it useful) and also to allow them to help me improve and complete it. I intend to host more material for more talks and classes during the summer.
+In this repo I'm storing the materials for short talks on very specific topics I've been hosting for several
+[RGSoC](http://railsgirlssummerofcode.org/) teams that have been working at our office, as well as interns who are
+getting started in programming. They're introductory topics but I've tried to make them as practical as possible.
 
 ## Table of contents
 
