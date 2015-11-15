@@ -5,5 +5,6 @@ This repo contains the notes and materials for a short talk on Ruby objects and 
 ## Table of contents
 
 1. [Ruby Objects and Classes](ruby_objects_and_classes.md)
+1. [Parsing command line arguments and options](parsing_arguments_and_options.md)
 
 Pull Requests are welcome.
