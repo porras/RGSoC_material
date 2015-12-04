@@ -8,5 +8,6 @@ getting started in programming. They're introductory topics but I've tried to ma
 
 1. [Ruby Objects and Classes](ruby_objects_and_classes.md)
 1. [Parsing command line arguments and options](parsing_arguments_and_options.md)
+1. [Rake and Rakefile](rake.md)
 
 Pull Requests are welcome.
